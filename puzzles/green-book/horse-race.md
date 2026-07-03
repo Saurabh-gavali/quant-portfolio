@@ -35,7 +35,8 @@ E:21 >22 >23 >24 >25
 ```
 (Here ">" means faster.)
 ### Conclusion
-Now I know the ranking **within each group**.
+Now i know the ranking **within each group**.
+
 ---
 ## Step 2
 ### Action
@@ -122,6 +123,7 @@ Race:
 This is the **7th race**.
 
 The first two horses in this race are the **2nd** and **3rd** fastest overall.
+
 ---
 
 ## Answer
