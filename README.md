@@ -1,6 +1,6 @@
 # Quant Puzzle Solutions
 
-Complete solutions to problems from Jane Street, Putnam.
+Complete solutions to problems from Jane Street, Putnam and Green Book.
 
 Each solution contains:
 - Problem statement
